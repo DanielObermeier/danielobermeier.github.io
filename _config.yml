@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Obermeier"
-  avatar           : "Daniel Obermeier.jpg" #"profile.png"
+  avatar           : "Daniel Obermeier_squared.png" #"profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : #"Location"
   employer         :
