@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Welcome to my personal homepage and thanks for visiting! \n
+Welcome to my personal homepage and thanks for visiting! <br>
 I am Daniel, a postdoctoral researcher at the New York University (NYU) Stern School of Business. My research focuses on how new technologies may reshape the future of our platform economy. Curiosity and a deep interest in new, digital technologies drives my passion for research and my eagerness to provide novel insights that help to create a more inclusive, transparent, and fair digital economy. I belief that technologies such as Artificial Intelligence and Blockchain have the potential to lead us into a more fair and transparent future of digital platform but to reach this future, we need to better understand and quantify the economic forces accompanying these new technologies. 
 
 Some of my ongoing research intends to understand: 
@@ -39,4 +39,6 @@ About my work
 
 
 
+My intellectual communities 
+======
 
