@@ -4,7 +4,7 @@ collection: teaching
 type: "Executive teaching"
 permalink: /teaching/certifiedDLTmanager
 venue: "TUM Executive Education Center"
-date: 2019 - 2022
+date: 2019-11-01
 location: "Munich, Germany"
 ---
 
