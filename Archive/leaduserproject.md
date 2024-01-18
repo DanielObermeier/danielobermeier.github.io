@@ -4,7 +4,7 @@ collection: teaching
 type: "TUM M.Sc. advanced topics seminar"
 permalink: /teaching/leaduserproject
 venue: "TUM School of Management"
-date: 2019 - 2021
+date: 2019-09-01
 location: "Munich, Germany"
 ---
 
