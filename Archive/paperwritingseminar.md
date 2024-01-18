@@ -4,7 +4,7 @@ collection: teaching
 type: "TUM M.Sc. advanced seminar"
 permalink: /teaching/paperwritingseminar
 venue: "TUM School of Management"
-date: Fall 2018
+date: 2018-09-01
 location: "Munich, Germany"
 ---
 
