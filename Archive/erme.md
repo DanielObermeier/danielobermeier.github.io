@@ -4,7 +4,7 @@ collection: teaching
 type: "TUM M.Sc. Lecture & Tutorial"
 permalink: /teaching/erme
 venue: "TUM School of Management"
-date: Spring 2018
+date: 2017-09-01
 location: "Munich, Germany"
 ---
 
